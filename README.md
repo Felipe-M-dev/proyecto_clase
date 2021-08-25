@@ -1,4 +1,4 @@
-# esafío - Proyecto clase  
+# Desafío - Proyecto clase  
 
 - Para realizar este desafío debes haber estudiado previamente todo el material disponibilizado en la sesión online correspondiente a la unidad.
 - Una vez terminado el desafío, comprime la carpeta y sube el `.zip`
